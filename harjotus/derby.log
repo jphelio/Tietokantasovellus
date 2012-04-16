@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-2012-03-30 12:49:19.814 GMT:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance a816c00e-0136-63a7-22f7-000005501530 
-on database directory C:\Users\Vesihiisi\Documents\NetBeansProjects\harjotus\testi  with class loader sun.misc.Launcher$AppClassLoader@1b3dc4d5 
+2012-04-16 10:43:42.305 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance a816c00e-0136-bac0-3ba6-0000054e4808 
+on database directory C:\Users\Vesihiisi\Documents\NetBeansProjects\harjotus\testi  with class loader sun.misc.Launcher$AppClassLoader@744589eb 
 Loaded from file:/C:/Program%20Files/glassfish-3.1.1/javadb/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.7.0-b147
